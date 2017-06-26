@@ -1,7 +1,7 @@
 # This gets automatically populated bij gulp
 
-exports.date = 1497979875
-exports.branch = "master"
-exports.hash = "ec9817d"
-exports.build = 2848
+exports.date = 1498518438
+exports.branch = "customized-for-windows"
+exports.hash = "e44783c"
+exports.build = 2853
 exports.version = "#{exports.branch}/#{exports.hash}"

@@ -1,19 +1,22 @@
 {
   "name": "framerjs-prebuilt",
   "version": "1.0.0",
-  "description": "Prebuilt versions of FramerJS. Each commit message points to the jchavarri/Framer commit used for that version.",
+  "description": "Prebuilt versions of FramerJS. Each commit message points to the joeday/Framer commit used for that version.",
   "main": "framer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jchavarri/framerjs-prebuilt.git"
+    "url": "git+https://github.com/joeday/framerjs-prebuilt.git"
   },
   "author": "Javier Chávarri",
+  "contributors": {
+    "Joe Day": "joeday@microsoft.com"
+  },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jchavarri/framerjs-prebuilt/issues"
+    "url": "https://github.com/joeday/framerjs-prebuilt/issues"
   },
-  "homepage": "https://github.com/jchavarri/framerjs-prebuilt#readme"
+  "homepage": "https://github.com/joeday/framerjs-prebuilt#readme"
 }

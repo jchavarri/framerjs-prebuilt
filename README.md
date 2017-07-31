@@ -2,6 +2,8 @@
 
 Prebuilt versions of FramerJS. 
 
+This project is forked from [jchavarri/framerjs-prebuilt](https://github.com/jchavarri/framerjs-prebuilt) which appears to have gone quiet for the time being. Keeping it up to date here. If you notice it's behind, please send a pull request!
+
 ## How to Update
 1. You're going to need a Mac
 2. Make sure you have the latest Node and NPM
